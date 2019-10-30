@@ -1,7 +1,7 @@
 <html>
 <head><title>Join The Community</title></head>
 <body>
-    <form action="register.html" method="POST">
+    <form action="register.php" method="POST">
         Username: <input type="text" name="username">
         <br />Password: <input type="password" name="username">
         <br />Confirm Password: <input type="password" name="username">
